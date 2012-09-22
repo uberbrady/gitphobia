@@ -1,6 +1,6 @@
 #!/usr/local/bin/node
 
-console.warn('This is my PHP file. There are many like it, but this one is mine. ');
+console.warn('This is my PHP file. There are many like it, but this one is mine. kdjflkfj. kjdvhkjdhjkdfg jshjkhsdfl asjlsdj');
 
 var mtime = microtime();
 var mtime = explode(" ",mtime);
@@ -19,3 +19,4 @@ include(app_path.'/inc/lib.php');
 
 var sql = "select distinct(fb_id) as fb_id, toon_name from wow_toons where (toon_lvl IS NULL OR toon_lvl='') AND valid_toon='y' order by toon_name asc limit 15";
 
+echo 'kafhk jshf ksddhfkjsdhf k';

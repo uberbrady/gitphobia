@@ -1,5 +1,7 @@
 #!/usr/local/bin/node
 
+//this is a brady file which explains why it had fucking SHORT TAGS.
+
 
 if (xml_data['page']['characterInfo']['attr']['errCode']=='noCharacter'){
 	sql = "delete from wow_toons where toon_id='".toons[i]['toon_id']."'";
