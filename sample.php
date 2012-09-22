@@ -7,3 +7,5 @@ $foo='bar';
 $baz='bif';
 
 print_r($foo);
+
+echo $jackylpuss;
