@@ -18,4 +18,4 @@ S*S   S%  S*S       S*S       S*S         S*S    S*S  S*S.     .S*S  S*S    S*S 
                                                                                                   
 </pre>
 
-I don't know what the hell I'm doing most of the time.
+I don't know what the hell I'm doing most of the time. But I fake it well.
