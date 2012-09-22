@@ -19,6 +19,5 @@ include(app_path.'/inc/lib.php');
 
 var sql = "select distinct(fb_id) as fb_id, toon_name from wow_toons where (toon_lvl IS NULL OR toon_lvl='') AND valid_toon='y' order by toon_name asc limit 15";
 
-echo 'kafhk jshf ksddhfkjsdhf k';
-
+console.log('kafhk jshf ksddhfkjsdhf k');
 echo 'this is a hotfix to fix fixxy things.';
