@@ -1,6 +1,6 @@
 <?php
 
-//this is a brady file
+//this is a brady file which explains why it had fucking SHORT TAGS.
 
 //it's MINE.
 
