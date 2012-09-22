@@ -1,8 +1,10 @@
-THIS IS A SAMPLE file
+<?php
 
-$foo=bar;
+// THIS IS A SAMPLE file
 
-$baz=bif;
+$foo='bar';
+
+$baz='bif';
 
 print_r($foo);
 
