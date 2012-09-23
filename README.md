@@ -18,4 +18,4 @@ S*S   S%  S*S       S*S       S*S         S*S    S*S  S*S.     .S*S  S*S    S*S 
                                                                                                   
 </pre>
 
-I don't know what the hell I'm doing most of the time. But I fake it well.
+This is not a real project. If you found this project on GitHub, move along. There is nothing of value for you here.
