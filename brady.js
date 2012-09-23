@@ -18,5 +18,6 @@ if (xml_data['page']['characterInfo']['attr']['errCode']=='noCharacter'){
 }
 
 console.log("invalid count is: ",invalid_count, "Fbml: ",fbml);
-
+console.log('change is good.');
 process.exit(0);
+
