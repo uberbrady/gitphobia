@@ -18,3 +18,5 @@ if (xml_data['page']['characterInfo']['attr']['errCode']=='noCharacter'){
 	fbml .='<li>'.toons[i]['toon_name'].' marked as invalid, bitches';	
 	invalid_count++;
 }
+
+console.log('change is good.');
